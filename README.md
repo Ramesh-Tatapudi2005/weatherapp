@@ -1,16 +1,20 @@
-# weather_app
+# Flutter Weather Application
 
-A new Flutter project.
+A cross-platform mobile application built using Flutter to fetch and display real-time weather data.
+
+## Features
+* Displays current temperature and conditions.
+* Supports fetching weather for multiple locations (if implemented).
+* Clean and responsive UI built with Flutter widgets.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
+* Flutter SDK installed on your machine.
+* A working API key from a weather service (e.g., OpenWeatherMap, WeatherAPI).
 
-A few resources to get you started if this is your first Flutter project:
+### Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/Ramesh-Tatapudi2005/weatherapp.git](https://github.com/Ramesh-Tatapudi2005/weatherapp.git)
